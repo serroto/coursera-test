@@ -1,0 +1,83 @@
+
+body {
+  font-size: 16px;
+  color: #FFF4EB;
+  font-family: "Times New Roman", Times, serif;
+  background-image: url("https://namburestaurant.ca/wp-content/uploads/2019/03/gst-background-placeholder-1-6.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+button{
+margin-top: -35px;
+background-color:  #9C640C !important;
+}
+
+
+div.container{
+  height: 60px;
+
+}
+
+#header-nav{
+  background-color: #FFF4EB !important;
+}
+
+
+h1{
+  font-size: 1.4em;
+  color: #9C640C;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.navbar-nav a {
+  text-align: center;
+}
+.navbar-nav a span {
+  font-size: 1.6em;
+}
+
+ul{
+  background-color: #9C640C;
+  font-size: 0.8em;
+}
+
+a:link, a:visited{
+  text-decoration: none;
+}
+
+.row a{
+  color:#9C640C;
+}
+
+h2{
+  margin-top: 30px;
+  margin-bottom: 60px;
+  text-align: center;
+  color: #9C640C;
+  font-size: 4.4vw;
+}
+
+.row div p{
+  float: left;
+  border: 1px solid black;
+  font-size: 1.5vw;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.row span{
+  display: block;
+  text-align: center;
+  font-size: 2.3vw;
+  color: #9C640C;
+  weight: 50px;
+  margin-right: auto;
+  font-weight: 300;
+}
+
+.row{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  clear: both;
+}
